@@ -34,7 +34,7 @@ const fichesData = [
     },
     {
         id: 4,
-        title: "Psychotropes et énuréise nocture chez l'adulte",
+        title: "Psychotropes et énurésie nocture chez l'adulte",
         description: "",
         category: "psychotropes",
         categoryLabel: "Psychotropes",
@@ -245,7 +245,7 @@ const fichesData = [
     },
     {
         id: 24,
-        title: "Gérer le relais (swith) entre antipsychotiques",
+        title: "Gérer le relais (switch) entre antipsychotiques",
         description: "",
         category: "antipsychotiques",
         categoryLabel: "Antipsychotiques",
